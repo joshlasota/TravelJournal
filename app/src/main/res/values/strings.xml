@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Travel Journal</string>
+
+    <string name="welcome_message">Welcome to Travel Journal App!</string>
+
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Login</string>
+    <string name="signup_button">Sign Up</string>
+
+    <string name="add_entry">Add New Entry</string>
+    <string name="view_entries">View Entries</string>
+    <string name="settings">Settings</string>
+
+</resources>
